@@ -26,7 +26,6 @@ Built to demonstrate end-to-end data engineering and ML skills relevant to the g
 ### Grafana Live Dashboard
 ![Grafana Dashboard](/grafana.png)
 
-> 🔗 **[View Live Grafana Snapshot](http://localhost:3000/dashboard/snapshot/dmfgGeleZ3Iu8m03NCgoNMukideAhdx5)**
 ---
 
 ## 🏗️ Architecture
