@@ -24,7 +24,7 @@ Built to demonstrate end-to-end data engineering and ML skills relevant to the g
 ![React Dashboard](/dashboard.png)
 
 ### Anomaly Feed
-![Anomaly Feed](/Anomaly.png)
+![Anomaly Feed](/AnomalyFeed.png)
 
 
 ### Grafana Live Dashboard
