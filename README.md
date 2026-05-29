@@ -210,8 +210,6 @@ Germany's energy transition (Energiewende) requires intelligent monitoring of ho
 - GitHub: [@davemeeta](https://github.com/davemeeta)
 - LinkedIn: [Meeta Dave](https://linkedin.com/in/meetadave)
 
-*This project was originally conceived, designed, and built by Meeta Dave as a portfolio project targeting roles in the green energy and IoT analytics space.*
-
 ---
 
 ## 📄 License
